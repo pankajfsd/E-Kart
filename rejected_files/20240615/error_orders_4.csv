@@ -1,0 +1,2 @@
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+4,2023-01-04,600,3,30000,Bangalore,Invalid product id 600
